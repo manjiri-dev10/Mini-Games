@@ -1,4 +1,4 @@
-# 🎮 Mini Games Collection
+# 🎮 Mini Games 
 
 A portfolio project featuring **4 fully playable browser games** built with pure HTML, CSS, and JavaScript — no frameworks, no build tools, no dependencies.
 
